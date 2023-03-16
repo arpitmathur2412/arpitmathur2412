@@ -2,7 +2,7 @@
 
 <!--
 **arpitmathur2412/arpitmathur2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-  ##SKILLS
-* [MongoDB](https://www.mongodb.com/) - NoSQL database used
-* [Express.js](https://expressjs.com/) - Backend framework used
-* [React](https://reactjs.org/) - Frontend library used
-* [Node.js](https://nodejs.org/) - JavaScript runtime environment used
