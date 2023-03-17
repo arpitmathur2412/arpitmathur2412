@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arpitmathur23@gmail.com**
 
-<img src="https://octodex.github.com/images/Fintechtocat.png" alt="display-picture" width="400px" height="400px">
+![](https://github.com/Your_Repository_Name/NUX_Octodex.gif)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
