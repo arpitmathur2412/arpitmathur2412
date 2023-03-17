@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **arpitmathur23@gmail.com**
 
-![](https://github.com/Your_Repository_Name/NUX_Octodex.gif)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
