@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arpitmathur23@gmail.com**
 
-<img src="https://octodex.github.com/images/Fintechtocat.png" alt="display-picture" width="50px" height="50px">
+<img src="https://octodex.github.com/images/Fintechtocat.png" alt="display-picture" width="400px" height="400px">
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
