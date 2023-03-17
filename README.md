@@ -36,6 +36,6 @@
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitmathur2412&" alt="arpitmathur2412" /></p> -->
 
-![](https://github-readme-stats.vercel.app/api?username=arpitmathur2412&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpitmathur2412&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arpitmathur2412&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpitmathur2412&theme=react&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmathur2412&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
