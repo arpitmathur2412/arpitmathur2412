@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Mathur</h1>
 <h3 align="center">A passionate MERN developer and Data Science enthusiast, always open to learning.</h3>
-
+<br>
 - 🔭 I’m currently working on **Building Machine learning models and De-fi web-app**
 
 - 🌱 I’m currently learning **Neural Networking algorithms, Web-3**
