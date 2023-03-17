@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **arpitmathur23@gmail.com**
 
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="display-picture">
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arpit_mathur24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_mathur24" height="30" width="40" /></a>
