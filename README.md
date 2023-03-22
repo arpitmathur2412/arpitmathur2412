@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpitmathur2412](https://github.com/arpitmathur2412)
 
-- 💬 Ask me about **Ask me Anything you like**
+- 💬 Ask me about **Anything you like**
 
 - 📫 How to reach me **arpitmathur23@gmail.com**
 
