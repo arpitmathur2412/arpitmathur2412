@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Mathur</h1>
 <h3 align="center">A passionate MERN developer and Data Science enthusiast, always open to learning.</h3>
 
-- 🔭 I’m currently working on **Building Machine learning models and De-fi web-app**
+- 🔭 I’m currently working on **Building Machine learning models and Full Stack Projects**
 
-- 🌱 I’m currently learning **Neural Networking algorithms, Web-3**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning ,Neural Networking algorithms**
 
-- 👯 I’m looking to collaborate on **Open source projects on web-D**
+- 👯 I’m looking to collaborate on **Open source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpitmathur2412](https://github.com/arpitmathur2412)
 
