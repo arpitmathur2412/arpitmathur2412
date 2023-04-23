@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Mathur</h1>
 <h3 align="center">A passionate MERN developer and Data Science enthusiast, always open to learning.</h3>
 
-- 🔭 I’m currently working on **Building Machine learning models and Full Stack Projects**
+- 🔭 I’m currently working on **Machine learning models and Full Stack Projects**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning ,Neural Networking algorithms**
 
