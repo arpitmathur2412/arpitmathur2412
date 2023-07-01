@@ -11,7 +11,11 @@
 
 - 💬 Ask me about **Anything you like**
 
-- 📫 How to reach me **arpitmathur23@gmail.com**
+- 📫 How to reach me: **arpitmathur23@gmail.com**
+
+- Portfolio website link: **https://arpitmathur-website.vercel.app**
+
+- My Blogs: **https://arpitmathur.hashnode.dev**    
 
 <br>
 <h3 align="left">Connect with me:</h3>
