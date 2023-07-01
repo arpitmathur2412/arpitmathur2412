@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arpitmathur2412](https://github.com/arpitmathur2412)
+- 👨‍💻 All of my projects are available at **[https://github.com/arpitmathur2412](https://github.com/arpitmathur2412)**
 
 - 💬 Ask me about **Anything you like**
 
