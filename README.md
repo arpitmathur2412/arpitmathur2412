@@ -15,7 +15,9 @@
 
 - Portfolio website link: **https://arpitmathur-website.vercel.app**
 
-- My Blogs: **https://arpitmathur.hashnode.dev**    
+- My Blogs: **https://arpitmathur.hashnode.dev**
+
+![](https://github.com/arpitmathur2412/arpitmathur2412/blob/f8ed0ff4f2eb9639b4808033c6aaacaf98443a0b/NUX_Octodex.gif)
 
 <br>
 <h3 align="left">Connect with me:</h3>
