@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine learning and Full Stack Projects**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning ,Neural Networking algorithms**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
