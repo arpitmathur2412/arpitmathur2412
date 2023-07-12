@@ -36,6 +36,6 @@
 <hr>
 
 
-![](https://github-readme-stats.vercel.app/api?username=arpitmathur2412&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=arpitmathur2412&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arpitmathur2412&theme=react&hide_border=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmathur2412&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arpitmathur2412&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
